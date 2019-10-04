@@ -5,7 +5,9 @@ Here we are using the truffle framework forcompiling and deploying the smart con
 Prerequisites 
 --------------
 1. Testrpc or Ganache-cli
+
 2.truffle framework
+
 3.Node js
 
 
@@ -23,7 +25,9 @@ Run this command
 # npm install -g ethereumjs-testrpc
 
 
-
+Installing Truffle framework
+---------------------------
+# npm install -g truffle
 
 Step to follow
 -------------------
