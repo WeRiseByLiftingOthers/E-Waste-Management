@@ -25,28 +25,28 @@ Run this command
 
 Installing Truffle framework
 ---------------------------
---> npm install -g truffle
+> npm install -g truffle
 
 Step to follow
 -------------------
 1. clone the repository in your local machine
 2. Go to the root repository
 3. Run the command 
-   --> truffle compile
+   > truffle compile
 4. Take another terminal for testrpc, run the command 
-    # testrpc -p 7545 or run Ganache-cli
+   > testrpc -p 7545 or run Ganache-cli
 5. In the root directory repo, run the command
-   # truffle migrate
+   > truffle migrate
    
 6. Going to interact with our smart contract through truffle framework
-   # truffle console
+   > truffle console
    Enter the below command in the truffle console
-   # Ewaste.deployed()
-   # let EwasteInstance = await Ewaste.deployed()
+   > Ewaste.deployed()
+   > let EwasteInstance = await Ewaste.deployed()
    
    choose the function in the smart contract
    
-   # EwasteInstance.regUser("0xca35b7d915458ef540ade6068dfe2f44e8fa733c","Apple Private Limited","USA",1)
+   > EwasteInstance.regUser("0xca35b7d915458ef540ade6068dfe2f44e8fa733c","Apple Private Limited","USA",1)
    
    Like wise you can interact with functions through the truffle console or you can use Remix IDE 
 
