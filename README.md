@@ -17,24 +17,24 @@ Download the ganache app image from the below link
 
 https://github.com/trufflesuite/ganache/releases/download/v2.1.1/ganache-2.1.1-linux-x86_64.AppImage
 
-# Provide the permission for execte the file
+Provide the permission for execte the file
 
 If you want to install testrpc
 Run this command 
 
-# npm install -g ethereumjs-testrpc
+--> npm install -g ethereumjs-testrpc
 
 
 Installing Truffle framework
 ---------------------------
-# npm install -g truffle
+--> npm install -g truffle
 
 Step to follow
 -------------------
 1. clone the repository in your local machine
 2. Go to the root repository
 3. Run the command 
-   # truffle compile
+   --> truffle compile
 4. Take another terminal for testrpc, run the command 
     # testrpc -p 7545 or run Ganache-cli
 5. In the root directory repo, run the command
