@@ -20,7 +20,7 @@ Provide the permission for execte the file
 If you want to install testrpc
 Run this command 
 
---> npm install -g ethereumjs-testrpc
+> npm install -g ethereumjs-testrpc
 
 
 Installing Truffle framework
