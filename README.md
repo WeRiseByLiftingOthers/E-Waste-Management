@@ -1,3 +1,5 @@
+![Truffle Framework](http://www.massimilianoterzi.it/wp-content/uploads/2018/01/truffle.png)
+
 **E-Waste-Management**
 The potential use of Blockchain in e-waste management sector
 
