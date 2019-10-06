@@ -50,6 +50,7 @@ sudo apt-get install -y nodejs
    > truffle console
    Enter the below command in the truffle console
    > Ewaste.deployed()
+7. Create an instance for the contract    
    > let EwasteInstance = await Ewaste.deployed()
    
    choose the function in the smart contract
