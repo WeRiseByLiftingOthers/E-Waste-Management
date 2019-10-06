@@ -25,8 +25,14 @@ Run this command
 
 
 ### Installing Truffle framework
----------------------------
+-------------------------------
 > npm install -g truffle
+
+### Installing Nodejs 
+---------------------
+> curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
 
 #### Step to follow
 -------------------
