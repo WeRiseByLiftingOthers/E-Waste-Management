@@ -1,9 +1,9 @@
 **E-Waste-Management**
 The potential use of Blockchain in e-waste management sector
 
-# Here we are using the truffle framework for compiling and deploying the smart contract in Ethereum blockchain
+## Here we are using the truffle framework for compiling and deploying the smart contract in Ethereum blockchain
 
-###Prerequisites 
+### Prerequisites 
 --------------
 - Testrpc or Ganache-cli
 - truffle framework
