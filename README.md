@@ -31,6 +31,7 @@ Run this command
 #### Step to follow
 -------------------
 1. clone the repository in your local machine
+  > git clone 
 2. Go to the root repository
 3. Run the command 
    > truffle compile
