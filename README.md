@@ -40,7 +40,10 @@ sudo apt-get install -y nodejs
 -------------------
 1. clone the repository in your local machine
    > git clone https://github.com/WeRiseByLiftingOthers/E-Waste-Management.git
-   or
+   
+   ###### You can download this project as truffle box by below command
+   
+   
    > truffle unbox WeRiseByLiftingOthers/E-Waste-Management
    
 2. Go to the root repository
