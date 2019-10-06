@@ -1,15 +1,16 @@
 **E-Waste-Management**
 The potential use of Blockchain in e-waste management sector
 
-Here we are using the truffle framework forcompiling and deploying the smart contract in Ethereum blockchain
-Prerequisites 
+# Here we are using the truffle framework for compiling and deploying the smart contract in Ethereum blockchain
+
+###Prerequisites 
 --------------
 - Testrpc or Ganache-cli
 - truffle framework
 - Node js
 
 
-Installing Ganache-cli and testrpc
+### Installing Ganache-cli and testrpc
 ----------------------------------
 Download the ganache app image from the below link
 
@@ -23,11 +24,11 @@ Run this command
 > npm install -g ethereumjs-testrpc
 
 
-Installing Truffle framework
+### Installing Truffle framework
 ---------------------------
 > npm install -g truffle
 
-Step to follow
+#### Step to follow
 -------------------
 1. clone the repository in your local machine
 2. Go to the root repository
