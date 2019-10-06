@@ -31,7 +31,7 @@ Run this command
 #### Step to follow
 -------------------
 1. clone the repository in your local machine
-  > git clone 
+   > git clone https://github.com/WeRiseByLiftingOthers/E-Waste-Management.git
 2. Go to the root repository
 3. Run the command 
    > truffle compile
