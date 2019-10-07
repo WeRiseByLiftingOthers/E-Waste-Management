@@ -9,13 +9,6 @@ contract Mytoken is ERC20
     uint8 public decimal =2;
     uint public INITIAL_SUPPLY =50000000000;
     
-    /**
-     * Create token
-     * @Abhilash sreedharan
-     */
-    
-    
-    
     constructor() public {
   _mint(msg.sender, INITIAL_SUPPLY);
 }
